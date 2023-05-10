@@ -1,6 +1,7 @@
 # Se definen dos variables numéricas.
 num1, num2 = 100, 25
 
+# Se imprime un menú con las opciones de operaciones que se pueden realizar.
 print('1-sumar')
 print('2-restar')
 print('3-multiplicar')
