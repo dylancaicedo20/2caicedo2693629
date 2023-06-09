@@ -1,4 +1,4 @@
-from empleado import Empleado
+from empleado import *
 
 em1 = Empleado("Juan", "Técnico", 1800000)
 em2 = Empleado("Andrea", "Ingeniera", 3500000)
